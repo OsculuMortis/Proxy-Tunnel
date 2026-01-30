@@ -3,6 +3,7 @@ Proxy Tunnel: Share your internet as a web proxy with auto DDNS and easy Windows
 
 Proxy Tunnel – Description & How to Use
 What it does:
+
 Proxy Tunnel lets you share your internet connection with others by running a secure web proxy server on your Windows PC.
 Others can connect to your proxy and browse the web as if they were at your location. 
 The app also supports automatic Dynamic DNS (No-IP), so your proxy address always stays up to date.
